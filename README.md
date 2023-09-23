@@ -2,7 +2,7 @@
 
 ## Live Project
 
-- [Link](https://harsh-insta-reels-clone.netlify.app)
+- [Link](https://harsh-dijkstra-algo-visualiser.netlify.app/)
 
 A quick guide to my Project ->
 
