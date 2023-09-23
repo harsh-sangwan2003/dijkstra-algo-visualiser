@@ -63,7 +63,4 @@ to run the website
 - [Link](https://app.gemoo.com/share/home?codeId=DW48OxojdjLBe)
 
 
-
-
 https://github.com/harsh-sangwan2003/dijkstra-algo-visualiser/assets/84121947/bae72fca-9d79-4d8a-a630-fdfb01d42665.mp4
-
