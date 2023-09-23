@@ -6,8 +6,6 @@
 
 A quick guide to my Project ->
 
-<img src = "./public/image.webp">
-
 ## Tools Used
 
 - ReactJS
